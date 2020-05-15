@@ -1,4 +1,10 @@
-An absolute bare-bones web app.
+# Dart React Starter Template
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+It is a starter template for Dart React Project.
+
+## Usage
+```shell
+git clone https://github.com/shashikantdwivedi/dart-react-starter.git
+cd dart-react-starter
+pub get
+```
